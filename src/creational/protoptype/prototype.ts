@@ -13,9 +13,6 @@ export class Prototype {
             }
         }
 
-
-
-
         return clone
 
     }
